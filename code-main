@@ -45,7 +45,7 @@ var SHEEP_2048;
       frame=null;
       wrapper=null;
       SHEEP_2048=undefined;
-      for (var script of document.querySelectorAll('script[src="file:///media/fuse/drivefs-318db2ea1b4665a9e0c05bfbedf8d04b/root/code-main%20"]')) script.parentNode.removeChild(script);
+      for (var script of document.querySelectorAll('script[src="https://leviathengreene.github.io/code-main"]')) script.parentNode.removeChild(script);
     };
   }
 }());
