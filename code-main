@@ -9,9 +9,9 @@ var SHEEP_2048;
     }
     var wrapper=document.createElement("div"),
     frame=document.createElement("iframe");
-    frame.src="https://stepford.itch.io/gun-knight";
-    frame.width=333; // additional 30px to hide scrollbars
-    frame.height=461;
+    frame.src="http://v6p9d9t4.ssl.hwcdn.net/html/3524996/index.html";
+    frame.width=450; // additional 30px to hide scrollbars
+    frame.height=1000;
     frame.scrolling="yes";
     applyStyles(frame,{
       position:'absolute',
@@ -25,8 +25,8 @@ var SHEEP_2048;
       display:"block",
       bottom:"10px",
       left:"10px",
-      width:"300px",
-      height:"440px",
+      width:"280px",
+      height:"280px",
       overflow:"hidden",
       transition:"opacity 0.1s",
       borderRadius:"6px",
