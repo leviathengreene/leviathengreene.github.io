@@ -11,7 +11,7 @@ var SHEEP_2048;
     frame=document.createElement("iframe");
     frame.src="https://v6p9d9t4.ssl.hwcdn.net/html/3524996/index.html";
     frame.width=525; // additional 30px to hide scrollbars
-    frame.height=725;
+    frame.height=775;
     frame.scrolling="yes";
     applyStyles(frame,{
       position:'absolute',
@@ -26,7 +26,7 @@ var SHEEP_2048;
       bottom:"10px",
       left:"10px",
       width:"525px",
-      height:"700px",
+      height:"675px",
       overflow:"hidden",
       transition:"opacity 0.1s",
       borderRadius:"6px",
