@@ -25,7 +25,7 @@ var SHEEP_2048;
       display:"block",
       bottom:"10px",
       left:"10px",
-      width:"280x",
+      width:"280px",
       height:"280px",
       overflow:"hidden",
       transition:"opacity 0.1s",
