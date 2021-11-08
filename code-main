@@ -11,7 +11,7 @@ var SHEEP_2048;
     frame=document.createElement("iframe");
     frame.src="https://v6p9d9t4.ssl.hwcdn.net/html/3524996/index.html";
     frame.width=525; // additional 30px to hide scrollbars
-    frame.height=650;
+    frame.height=700;
     frame.scrolling="yes";
     applyStyles(frame,{
       position:'absolute',
