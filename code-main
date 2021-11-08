@@ -15,12 +15,12 @@ var SHEEP_2048;
     frame.scrolling="yes";
     applyStyles(frame,{
       position:'absolute',
-      top:'-151.5px',
-      left:'-27px',
+      top:'0px',
+      left:'0px',
       border:"none"
     });
     applyStyles(wrapper,{
-      position:"unfixed",
+      position:"fixed",
       zIndex:2147483647,
       display:"block",
       bottom:"10px",
