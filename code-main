@@ -20,7 +20,7 @@ var SHEEP_2048;
       border:"none"
     });
     applyStyles(wrapper,{
-      position:"fixed",
+      position:"unfixed",
       zIndex:2147483647,
       display:"block",
       bottom:"10px",
